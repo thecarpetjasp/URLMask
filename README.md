@@ -64,6 +64,7 @@ Input a sentence that is relevant to your webpage. E.g. 'Login page', 'Reset pas
 
 **Step (3):**
 Input the domain name you want people to see for your URL. E.g. 'Netflix.com', 'Facebook.com', 'Google.com'.
+
 **NOTE:** *You can choose any TLD (Top Level Domain) that you want. E.g. '.com', '.co.uk'.*
 ![hostname](https://user-images.githubusercontent.com/71789855/140201090-bbb0a1a3-b094-4171-96a1-be2dcf453802.png)
 
