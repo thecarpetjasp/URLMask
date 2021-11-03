@@ -2,7 +2,7 @@
 ![banner](https://user-images.githubusercontent.com/71789855/140201086-b9e55c8d-be96-4b99-bea7-2521ab37a605.png)
 
 
-Python program for Linux users to change any url to any domain name they want.
+Python program for Linux users to change a URL to ANY domain.
 
 
 A program than can take any url and mask it to any domain name you like. E.g. netflix.com, facebook.com, google.com, reddit.com.
