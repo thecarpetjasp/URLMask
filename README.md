@@ -51,14 +51,14 @@ or if you followed step (3) then:
 **Step (1):**
 Input the URL that you want to mask.
 
-![input_url](https://user-images.githubusercontent.com/71789855/140232361-09ec1973-7e19-4b74-a392-b7d4d48cbb45.png)
+![input_url](https://user-images.githubusercontent.com/71789855/140234333-71efafda-334a-47a7-b5d6-ec08b71d573f.png)
 
 #
 
 **Step (2):**
 Input a sentence that is relevant to your webpage. E.g. 'Login page', 'Reset password', 'free promotional code'.
 
-![sub_directories](https://user-images.githubusercontent.com/71789855/140232365-e1644e8f-b6ec-47f8-b27b-7a0f16b3551b.png)
+![input_subs](https://user-images.githubusercontent.com/71789855/140234332-8e9cdf58-5ad2-4f28-b3c7-5f04cf1e33b7.png)
 
 #
 
@@ -67,14 +67,14 @@ Input the domain name you want people to see for your URL. E.g. 'Netflix.com', '
 
 **NOTE:** *You can choose any TLD (Top Level Domain) that you want. E.g. '.com', '.co.uk'.*
 
-![input_domain](https://user-images.githubusercontent.com/71789855/140232360-8962592b-d052-49e5-8ee0-122a88660daf.png)
+![input_domain](https://user-images.githubusercontent.com/71789855/140234330-7bcbaedd-b53e-4b57-a6cd-cea4a5c70130.png)
 
 #
 
 **Step (4):**
 Your new URL will output immediately.
 
-![final](https://user-images.githubusercontent.com/71789855/140232357-e6c5f944-bca7-4c49-b646-68e9630d2636.png)
+![final](https://user-images.githubusercontent.com/71789855/140234327-a9beeb64-74c6-4ed8-be74-41f2c32e638e.png)
 
 
 
