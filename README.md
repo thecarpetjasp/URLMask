@@ -31,7 +31,7 @@ SENDING OUT ANY URL/LINK THAT IS DECEITFUL TO ANYONE UNAWARE IS ILLEGAL. BE RESP
 
 **Step (3): (OPTIONAL)**
 `python3 install.py`
-This next step will add the program to /usr/bin/ so that you can run the program anywhere from your terminal.
+*This step will add the program to /usr/bin/ so that you can run the program anywhere from your terminal.*
 
 
 **Step (4):**
