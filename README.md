@@ -72,7 +72,7 @@ Input the domain name you want people to see for your URL. E.g. 'Netflix.com', '
 #
 
 **Step (4):**
-Your new URL will output immediately.
+Your new URL will be output immediately.
 
 ![final](https://user-images.githubusercontent.com/71789855/140234327-a9beeb64-74c6-4ed8-be74-41f2c32e638e.png)
 
