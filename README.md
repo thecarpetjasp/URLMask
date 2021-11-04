@@ -80,3 +80,17 @@ Your new URL will be output immediately.
 
 
 Enjoy.
+
+
+#
+
+**NOTE:** *Something to bear in mind...*
+
+Mozilla Firefox is the only browser that will warn you about accessing these URL's. I've tested on all platforms and Firefox is the only browser that will alert a warning.
+The URL's all work without any warning message for:
+  * Google Chrome
+  * Microsoft Edge
+  * iPhone / iMac Safari
+  * Android Chrome
+
+If you are testing your URL's on Kali Linux, then it's a good chance you're using Mozilla Firefox which will explain any message you might receive when visiting the URL's.
