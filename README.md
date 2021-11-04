@@ -90,7 +90,7 @@ If the URL you wish to copy is not listed on the template list - you can make yo
 
 
 **Step (1):**
-Choose option [11] for **custom** on the template list.
+Choose option [**11**] for **custom** on the template list.
 
 ![choosing_custom](https://user-images.githubusercontent.com/71789855/140272706-51c80a36-01cb-4cb6-9141-ef7275870702.png)
 
