@@ -62,7 +62,7 @@ Select one of the many pre-made templates for your desired URL.
 #
 
 **Step (3):**
-Choose your own TLD (*Top Level Domain*) out of *.com* & *.co.uk*.
+Choose your own TLD (**Top Level Domain**) out of *'.com'* & *'.co.uk'*.
 
 ![choose_TLD](https://user-images.githubusercontent.com/71789855/140272703-150c5ada-90df-4724-b357-98ed782ebdc4.png)
 
