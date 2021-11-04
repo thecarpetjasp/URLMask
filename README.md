@@ -36,7 +36,7 @@ SENDING OUT ANY URL/LINK THAT IS DECEITFUL TO ANYONE UNAWARE IS ILLEGAL. BE RESP
 
 **Step (4):**
 `python3 urlmask.py`
-or if you followed step (3) then:
+or if you followed step (3):
 `urlmask`
 
 
