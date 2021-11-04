@@ -46,43 +46,81 @@ or if you followed step (3):
 
 
 
-**TUTORIAL**
+**TUTORIAL / PRE-MADE TEMPLATES**
 
 **Step (1):**
 Input the URL that you want to mask.
 
-![input_url](https://user-images.githubusercontent.com/71789855/140234333-71efafda-334a-47a7-b5d6-ec08b71d573f.png)
+![input_url](https://user-images.githubusercontent.com/71789855/140272713-a5453982-5edc-4ec0-9bfd-10f4aba3c293.png)
 
 #
 
 **Step (2):**
-Input a sentence that is relevant to your webpage. E.g. 'Login page', 'Reset password', 'free promotional code'.
+Select one of the many pre-made templates for your desired URL.
 
-![input_subs](https://user-images.githubusercontent.com/71789855/140234332-8e9cdf58-5ad2-4f28-b3c7-5f04cf1e33b7.png)
+![choose_template](https://user-images.githubusercontent.com/71789855/140272700-5ea07d94-4324-4153-9646-864886aed938.png)
 
 #
 
 **Step (3):**
-Input the domain name you want people to see for your URL. E.g. 'Netflix.com', 'Facebook.com', 'Google.com'.
+Choose your own TLD (*Top Level Domain*) out of *.com* & *.co.uk*.
 
-**NOTE:** *You can choose any TLD (Top Level Domain) that you want. E.g. '.com', '.co.uk'.*
-
-![input_domain](https://user-images.githubusercontent.com/71789855/140234330-7bcbaedd-b53e-4b57-a6cd-cea4a5c70130.png)
+![choose_TLD](https://user-images.githubusercontent.com/71789855/140272703-150c5ada-90df-4724-b357-98ed782ebdc4.png)
 
 #
 
 **Step (4):**
+Choose if you would like 'World Wide Web' attached with your URL.
+
+![choose_www](https://user-images.githubusercontent.com/71789855/140272704-26b25f99-4c99-40ce-aadc-19cfe78d9a8b.png)
+
+#
+
+**Step (5):**
 Your new URL will be output immediately.
 
-![final](https://user-images.githubusercontent.com/71789855/140234327-a9beeb64-74c6-4ed8-be74-41f2c32e638e.png)
-
-
-
-
-Enjoy.
+![output](https://user-images.githubusercontent.com/71789855/140272714-74c939e4-2c5d-435c-a407-db86525f075e.png)
 
 
 #
+
+
+**TUTORIAL / CUSTOM TEMPLATES**
+
+If the URL you wish to copy is not listed on the template list - you can make your own.
+
+
+**Step (1):**
+Choose option 11 for *custom* on the template list.
+
+![choosing_custom](https://user-images.githubusercontent.com/71789855/140272706-51c80a36-01cb-4cb6-9141-ef7275870702.png)
+
+#
+
+**Step (2):**
+Now copy the directory path of your chosen URL. 
+Be sure to start the copy of your directory from the first English character after the TLD (*'.co.uk', '.com'*)
+
+![copy_directory](https://user-images.githubusercontent.com/71789855/140272707-5179701b-3486-4ce0-a7d6-ed9a22b64442.png)
+![paste_directory](https://user-images.githubusercontent.com/71789855/140272716-ce6d2d2e-a70b-4db4-a747-df65afe6ba6c.png)
+
+#
+
+**Step (3):**
+Enter the domain name of the URL.
+
+![input_custom_domain](https://user-images.githubusercontent.com/71789855/140272712-ebf95e57-1287-4f66-9656-66c17b633a04.png)
+
+#
+
+**Step (4):**
+Your custom URL will output immediately after.
+
+![custom_output](https://user-images.githubusercontent.com/71789855/140272710-7de9d451-e9d0-499b-816a-78ee80af1971.png)
+
+#
+
+
 **Comparison**
 
 Here's a comparison shot. On top you have a REAL Google Drive URL. On the bottom you have a FAKE Google Drive URL generated with URLMask.py.
