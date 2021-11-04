@@ -85,7 +85,7 @@ Enjoy.
 #
 **Comparison**
 
-Here's a comparison shot. On top you have a REAL Google Drive URL. On the bottom you have a FAKE Google Drive URL, generated with URLMask.py.
+Here's a comparison shot. On top you have a REAL Google Drive URL. On the bottom you have a FAKE Google Drive URL generated with URLMask.py.
 
 ![comparison](https://user-images.githubusercontent.com/71789855/140248587-3afa833a-1a51-476c-96dc-d9e4d1f13eb1.png)
 
