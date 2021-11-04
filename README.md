@@ -76,7 +76,7 @@ Choose if you would like 'World Wide Web' attached with your URL.
 #
 
 **Step (5):**
-Your new URL will be output immediately.
+Your new URL will output immediately after.
 
 ![output](https://user-images.githubusercontent.com/71789855/140272714-74c939e4-2c5d-435c-a407-db86525f075e.png)
 
