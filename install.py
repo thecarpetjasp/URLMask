@@ -1,4 +1,5 @@
 import os
+print ("Setting up URLMask for you...")
 os.system("cls||clear")
 os.system("sudo pip3 install colorama")
 os.system("sudo chmod +x urlmask.py")
