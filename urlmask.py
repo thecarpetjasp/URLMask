@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 import time
 import os
+import sys
 import colorama
 from colorama import Fore, Style
 # Creating a python program to mask a url.
@@ -16,7 +17,25 @@ print ("")
 time.sleep(0.5)
 
 # SHORTENING URL
-original_url = input("Enter the URL you want to mask: " + Style.RESET_ALL)
+if len(sys.argv) == 1:
+	original_url = input("Enter the URL you want to mask: " + Style.RESET_ALL)
+else:
+	if sys.argv[1] == ("-h") or sys.argv[1] == ("--help"):
+		print(Style.RESET_ALL + "optional arguments:")
+		print("-h, --help		show this help message and exit")
+		print("-u, --url		Provide URL to be masked")
+		print("				E.g.: urlmask -u www.example.com")
+		exit()
+	elif sys.argv[1] == ("-u") or sys.argv[1] == ("--url"):
+		if len(sys.argv) < 3:
+			print(Style.RESET_ALL + "Please provide a url when using '--url' argument! E.g.: urlmask -u www.example.com")
+			exit()
+		else:
+			original_url = sys.argv[2]
+			print(Style.RESET_ALL + "URL accepted! Loading menu...")
+	else:
+		print(Style.RESET_ALL + "Incorrect argument! Please use 'urlmask --help' for help")
+		exit()
 shortened_original_url = str(os.popen("curl -s https://is.gd/create.php\?format\=simple\&url\=" + original_url).read())
 remove_junk = (shortened_original_url.replace("https://", ""))
 final_short = remove_junk
