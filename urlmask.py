@@ -114,7 +114,7 @@ while True:
 		subreddit_alpha = (subreddit_beta.replace(" ", ""))
 		post_topic_beta = input(Fore.YELLOW + "Type in your chosen post topic. E.g. 'Make easy money': " + Style.RESET_ALL)
 		post_topic_alpha = (post_topic_beta.replace(" ", "_"))
-		sub_link_final = ("r-" + subreddit_alpha + "-" + post_topic_alpha + "%")
+		sub_link_final = ("r∕" + subreddit_alpha + "∕" + post_topic_alpha + "%")
 		print ("\n\n")
 		print (Fore.YELLOW + "Choose TLD (Top Level Domain):" + Style.RESET_ALL)
 		print ("")
@@ -130,7 +130,7 @@ while True:
 			url_hostname = ("reddit.com")
 		break
 	elif ask_for_sub == "5":
-		sub_link_final = ("file-d-150pIZvDM6u42ZH63MQ-view%")
+		sub_link_final = ("file∕d∕150pIZvDM6u42ZH63MQ∕view%")
 		print ("\n\n")
 		print (Fore.YELLOW + "Choose TLD (Top Level Domain):" + Style.RESET_ALL)
 		print ("")
@@ -146,7 +146,7 @@ while True:
 			url_hostname = ("drive.google.com")
 		break
 	elif ask_for_sub == "6":
-		sub_link_final = ("p-CV03PieKWK-%")
+		sub_link_final = ("p∕CV03PieKWK∕%")
 		print ("\n\n")
 		print (Fore.YELLOW + "Choose TLD (Top Level Domain):" + Style.RESET_ALL)
 		print ("")
@@ -162,7 +162,7 @@ while True:
 			url_hostname = ("instagram.com")
 		break
 	elif ask_for_sub == "7":
-		sub_link_final = ("en-gb&wa=signin1.0%")
+		sub_link_final = ("en∕gb&wa=signin1.0%")
 		print ("\n\n")
 		print (Fore.YELLOW + "Choose TLD (Top Level Domain):" + Style.RESET_ALL)
 		print ("")
@@ -178,7 +178,7 @@ while True:
 			url_hostname = ("microsoft.com")
 		break
 	elif ask_for_sub == "8":
-		sub_link_final = ("gb-login&page=%3A%2F%2F%")
+		sub_link_final = ("gb∕login&page=%3A%2F%2F%")
 		print ("\n\n")
 		print (Fore.YELLOW + "Choose TLD (Top Level Domain):" + Style.RESET_ALL)
 		print ("")
@@ -210,7 +210,7 @@ while True:
 			url_hostname = ("paypal.com")
 		break
 	elif ask_for_sub == "10":
-		sub_link_final = ("&lang=en-gb%")
+		sub_link_final = ("&lang=en∕gb%")
 		print ("\n\n")
 		print (Fore.YELLOW + "Choose TLD (Top Level Domain):" + Style.RESET_ALL)
 		print ("")
@@ -230,7 +230,7 @@ while True:
                 # CREATING NEW DOMAIN NAME FOR URL
 		print (Fore.YELLOW + "Copy the directory of a site you wish to mask. \nStart with the first english letter after the TLD (.com / .co.uk).")
 		sub_link_beta1 = input("\nEnter your custom directory: " + Style.RESET_ALL)
-		sub_link_beta2 = (sub_link_beta1.replace("/", "-"))
+		sub_link_beta2 = (sub_link_beta1.replace("/", "∕"))
 		sub_link_final = (sub_link_beta2.replace("?", "&"))
 		print ("")
 		url_hostname = input(Fore.YELLOW + "Please enter a hostname for the URL. E.g. 'google.co.uk', 'facebook.com': " + Style.RESET_ALL)
@@ -250,16 +250,16 @@ print (Fore.YELLOW + "\n\n")
 while True:
 	ask_for_www = input(Fore.YELLOW + "Would you like to include 'www'? [Y/N]: " + Style.RESET_ALL)
 	if ask_for_www == "y":
-		complete_url = ("https://www." + url_hostname + "-" + sub_link_final + "@" + final_short)
+		complete_url = ("https://www." + url_hostname + "∕" + sub_link_final + "@" + final_short)
 		break
 	elif ask_for_www == "Y":
-		complete_url = ("https://www." + url_hostname + "-" + sub_link_final + "@" + final_short)
+		complete_url = ("https://www." + url_hostname + "∕" + sub_link_final + "@" + final_short)
 		break
 	elif ask_for_www == "n":
-		complete_url = ("https://" + url_hostname + "-" + sub_link_final + "@" + final_short)
+		complete_url = ("https://" + url_hostname + "∕" + sub_link_final + "@" + final_short)
 		break
 	elif ask_for_www == "N":
-		complete_url = ("https://" + url_hostname + "-" + sub_link_final + "@" + final_short)
+		complete_url = ("https://" + url_hostname + "∕" + sub_link_final + "@" + final_short)
 		break
 	else:
 		os.system("cls||clear")
