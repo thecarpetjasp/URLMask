@@ -98,7 +98,7 @@ Choose option [**11**] for **custom** on the template list.
 
 **Step (2):**
 Now copy the directory path of your chosen URL. 
-Be sure to start the copy of your directory from the first English character after the TLD (*'.co.uk', '.com'*)
+Be sure to start the copy of your directory from the first alphanumeric character after the TLD (*'.co.uk/', '.com/'*)
 
 ![copy_directory](https://user-images.githubusercontent.com/71789855/140272707-5179701b-3486-4ce0-a7d6-ed9a22b64442.png)
 ![paste_directory](https://user-images.githubusercontent.com/71789855/140272716-ce6d2d2e-a70b-4db4-a747-df65afe6ba6c.png)
